@@ -1,0 +1,471 @@
+INPUT.submit
+{
+	border-right: lightgrey 1px solid;
+	border-top: lightgrey 1px solid;
+	font-weight: bolder;
+	font-size: 12px;
+	background-image: url(\images\butbg.gif);
+	border-left: lightgrey 1px solid;
+	cursor: pointer;
+	color: black;
+	border-bottom: lightgrey 1px solid;
+	font-family: Verdana;
+	letter-spacing: 1px;
+	height: 19px;
+	background-color: transparent;
+	text-align: center;
+	text-decoration: none;
+}
+INPUT.submit1
+{
+	border-right: #ffffff 1px;
+	border-top: #ffffff 1px;
+	font-weight: bolder;
+	font-size: 12px;
+	background-image: url(\images\butbg.gif);
+	border-left: #ffffff 1px;
+	cursor: pointer;
+	color: black;
+	border-bottom: #ffffff 1px;
+	background-repeat: repeat-x;
+	font-family: Verdana;	
+	letter-spacing: 1px;
+	height: 19px;
+	background-color: transparent;
+	text-decoration: none;
+}
+SELECT
+{
+	border-right: darkgray 1px solid;
+	border-top: darkgray 1px solid;
+	font-size: 11px;
+	border-left: darkgray 1px solid;
+	color: #000000;
+	border-bottom: darkgray 1px solid;
+	font-family: Verdana;
+	background-color: white;
+	text-decoration: none;
+}
+TEXTAREA
+{
+	border-right: darkgray 1px solid;
+	border-top: darkgray 1px solid;
+	font-weight: bolder;
+	font-size: 11px;
+	border-left: darkgray 1px solid;
+	color: #000000;
+	border-bottom: darkgray 1px solid;
+	font-family: Verdana;
+	background-color: white;
+	text-decoration: none;
+}
+INPUT.text
+{
+	border-right: darkgray 1px solid;
+	border-top: darkgray 1px solid;
+	font-weight: bolder;
+	font-size: 11px;
+	border-left: darkgray 1px solid;
+	color: #000000;
+	border-bottom: darkgray 1px solid;
+	font-family: Verdana;
+	height: 17px;
+	background-color: white;
+	text-decoration: none;
+}
+INPUT.text1
+{
+	border-right: darkgray 0px solid;
+	border-top: darkgray 0px solid;
+	font-weight: bolder;
+	font-size: 11px;
+	border-left: darkgray 0px solid;
+	color: #ffffff;
+	border-bottom: darkgray 0px solid;
+	font-family: Verdana;
+	height: 17px;
+	background-color: navy;
+	text-decoration: none;
+}
+.link1
+{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 11px;
+	text-decoration: none;
+}
+A:hover.link1
+{
+	color:#DF5401;
+	font-size:11px;
+	font-weight:normal;
+	text-decoration:underline;
+}
+.link3
+{
+	color: #ffffff;
+	font-family: Verdana;
+	font-size: 12px;
+	text-decoration: none;
+}
+A:hover.link3
+{
+	color:#ffffff;
+	font-size:12px;
+	font-weight:bold;
+	
+}
+.link2
+{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 11px;
+	text-decoration: none;
+}
+.link3
+{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+.link01
+{
+	color: white;
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: bolder;
+	letter-spacing: 1pt;
+	text-decoration: none;
+}
+.tdtext1
+{
+	color: white;
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: bolder;
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+.tdtext2
+{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 12px;
+	font-weight: bolder;
+	text-decoration: none;
+}
+.bld
+{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: bolder;
+	text-decoration: none;
+}
+
+.linkbld
+{
+	color: #ff6600;
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: bolder;
+	text-decoration: none;
+}
+.htext
+{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 21px;
+	font-weight: bolder;
+	text-decoration: none;
+}
+.tdtext
+{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 11px;
+	text-decoration: none;
+}
+.tdstxt
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 11px;
+	text-decoration: none;
+}
+.tdstxt3
+{
+	color: blue;
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+}
+.tdtext3
+{
+	color: blue;
+	font-family: verdana;
+	font-size: 11px;
+	text-decoration: none;
+	font-weight: bold;
+}
+.ftext
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+}
+.atext
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 11px;
+	text-decoration: none;
+}
+PRE
+{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 11px;
+	text-decoration: none;
+}
+.stext
+{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 9px;
+}
+.btext
+{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 25px;
+	font-weight: bolder;
+}
+P
+{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 11px;
+	line-height: 18px;
+	text-decoration: none;
+}
+LI
+{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 11px;
+	padding-bottom: 3px;
+	padding-top: 3px;
+	text-align: justify;
+	text-decoration: none;
+}
+.but
+{
+	background-image: url(\images\butbg.jpg);
+	background-repeat: repeat-x;
+	border-bottom: mediumslateblue 1px solid;
+	border-left: mediumslateblue 1px solid;
+	border-right: mediumslateblue 1px solid;
+	border-top: mediumslateblue 1px solid;
+	color: #ffffd8;
+	cursor: pointer;
+	font-family: Verdana;
+	font-size: 12px;
+	font-weight: bolder;
+	height: 21px;
+	padding-right: 0px;
+	text-decoration: none;
+}
+.dot
+{
+	font-weight: bolder;
+	font-size: 9px;
+	text-transform: none;
+	color: #000000;
+	line-height: 2pt;
+	font-family: Verdana;
+	text-decoration: none;
+}
+.cltext
+{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: bold;
+}
+.mtext
+{
+	font-weight: bolder;
+	font-size: 18px;
+	color: #000000;
+	font-family: Verdana;
+}
+
+.mtext1
+{
+	font-weight: bolder;
+	font-size: 15px;
+	color: #000000;
+	font-family: Verdana;
+}
+.sbld
+{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 9px;
+	font-weight: bold;
+}
+.wtext
+{
+	color: white;
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: bolder;
+	text-decoration: none;
+}
+.bwtext
+{
+	color: white;
+	font-family: Verdana;
+	font-size: 17px;
+	font-weight: bolder;
+	text-decoration: none;
+}
+UL.ulimg
+{
+	background-color: transparent;
+	border-bottom: medium none;
+	border-left: medium none;
+	border-right: medium none;
+	border-top: medium none;
+	font-family: Verdana;
+	font-size: 12px;
+	letter-spacing: 1px;
+	list-style: disc url(\images\bullet.gif);
+	text-align: justify;
+	text-decoration: none;
+}
+DIV.cldiv0
+{
+	border-right: #313131 1px solid;
+	padding-right: 1px;
+	border-top: #313131 1px solid;
+	padding-left: 1px;
+	font-weight: bolder;
+	font-size: 10px;
+	padding-bottom: 1px;
+	border-left: #313131 1px solid;
+	width: 30px;
+	color: ghostwhite;
+	padding-top: 1px;
+	border-bottom: #313131 1px solid;
+	font-style: italic;
+	font-family: Verdana;
+	height: 15px;
+	background-color: #5b5b5b;
+	text-align: center;
+	text-decoration: none;
+}
+DIV.cldiv1
+{
+	border-right: #484848 1px solid;
+	padding-right: 1px;
+	border-top: #484848 1px solid;
+	padding-left: 1px;
+	font-weight: bolder;
+	font-size: 11px;
+	padding-bottom: 1px;
+	border-left: #484848 1px solid;
+	width: 30px;
+	cursor: pointer;
+	color: black;
+	padding-top: 1px;
+	border-bottom: #484848 1px solid;
+	font-style: italic;
+	font-family: Verdana;
+	height: 15px;
+	background-color: #eaeaea;
+	text-align: center;
+	text-decoration: none;
+}
+DIV.cldiv2
+{
+	border-right: #ff40ff 1px solid;
+	padding-right: 1px;
+	border-top: #ff40ff 1px solid;
+	padding-left: 1px;
+	font-weight: bolder;
+	font-size: 11px;
+	padding-bottom: 1px;
+	border-left: #ff40ff 1px solid;
+	width: 30px;
+	cursor: pointer;
+	color: black;
+	padding-top: 1px;
+	border-bottom: #ff40ff 1px solid;
+	font-style: italic;
+	font-family: Verdana;
+	height: 15px;
+	background-color: #ffb1f0;
+	text-align: center;
+	text-decoration: none;
+}
+DIV.cldiv3
+{
+	border-right: green 1px solid;
+	padding-right: 1px;
+	border-top: green 1px solid;
+	padding-left: 1px;
+	font-weight: bolder;
+	font-size: 11px;
+	padding-bottom: 1px;
+	border-left: green 1px solid;
+	width: 30px;
+	cursor: pointer;
+	color: black;
+	padding-top: 1px;
+	border-bottom: green 1px solid;
+	font-style: italic;
+	font-family: Verdana;
+	height: 15px;
+	background-color: lightgreen;
+	text-align: center;
+	text-decoration: none;
+}
+DIV.cldiv4
+{
+	border-right: saddlebrown 1px solid;
+	padding-right: 1px;
+	border-top: saddlebrown 1px solid;
+	padding-left: 1px;
+	font-weight: bolder;
+	font-size: 11px;
+	padding-bottom: 1px;
+	border-left: saddlebrown 1px solid;
+	width: 30px;
+	cursor: pointer;
+	color: black;
+	padding-top: 1px;
+	border-bottom: saddlebrown 1px solid;
+	font-style: italic;
+	font-family: Verdana;
+	height: 15px;
+	background-color: burlywood;
+	text-align: center;
+	text-decoration: none;
+}
+SELECT.clst
+{
+	font-weight: bolder;
+	font-size: 11px;
+	color: black;
+	font-style: italic;
+	font-family: Verdana;
+	height: 15px;
+	background-color: ghostwhite;
+}
+
